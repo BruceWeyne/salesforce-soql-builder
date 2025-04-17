@@ -1,4 +1,4 @@
-Apex SOQLBuilder
+Salesforce Apex SOQLBuilder
 ===
 
 Salesforce Apex Class for dynamic query builder and DML operations.
